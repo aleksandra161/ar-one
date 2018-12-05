@@ -1,0 +1,23 @@
+{
+  "name": "ar-one",
+  "version": "1.0.0",
+  "description": "``` git clone https://github.com/aleksandra161/ar-one.git",
+  "main": "ar.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandra161/ar-one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandra161/ar-one/issues"
+  },
+  "homepage": "https://github.com/aleksandra161/ar-one#readme",
+  "devDependencies": {
+    "serve": "^10.1.1"
+  }
+}
